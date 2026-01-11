@@ -45,8 +45,9 @@ Designed for traders who require millisecond precision, LaserSell runs directly 
 * **Sole Operator:** There is no support team. LaserSell is run solely by **[@haccer](https://github.com/haccer)**.
 
 **Official Contact:**
-If you need to verify an identity, the only official contact for the founder is via Instagram: **[@xen](https://instagram.com/xen)**.
-
+If you need to verify an identity, use the following official channels:
+* **Email:** [support@xen.world](mailto:support@xen.world)
+* **Instagram:** [@xen](https://instagram.com/xen)
 ---
 
 <div align="center">

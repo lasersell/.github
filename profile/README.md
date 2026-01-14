@@ -5,7 +5,7 @@
 ### The Non-Custodial Trading Terminal for Solana.
 **Speed. Precision. Security.**
 
-[Website](https://www.lasersell.io) • [Documentation](https://docs.lasersell.io) • [Telegram](https://t.me/lasersell) • [Get Premium](https://app.lasersell.io)
+[Website](https://www.lasersell.io) • [Documentation](https://docs.lasersell.io) • [Telegram](https://t.me/lasersell) • [Get Access](https://www.lasersell.io/buy)
 
 ---
 
@@ -29,7 +29,7 @@ Designed for traders who require millisecond precision, LaserSell runs directly 
 | :--- | :--- |
 | **🌐 [Landing Page](https://www.lasersell.io)** | General overview of the LaserSell platform. |
 | **📚 [Documentation](https://docs.lasersell.io)** | Installation guides, VPS setup, and configuration. |
-| **💎 [Premium Dashboard](https://app.lasersell.io)** | **Sign up here** to purchase a license and manage your account. |
+| **🎟️ [Get Access](https://www.lasersell.io/buy)** | Get a 7-day or 30-day license key. |
 | **💬 [Telegram Channel](https://t.me/lasersell)** | Join the announcements channel. |
 
 ---

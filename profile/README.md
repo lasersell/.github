@@ -2,8 +2,8 @@
 
 # ⚡ LaserSell
 
-### The Non-Custodial Trading Terminal for Solana.
-**Speed. Precision. Security.**
+### The Automated Exit Engine for Solana.
+**Detect. Execute. Secure.**
 
 [Website](https://www.lasersell.io) • [Documentation](https://docs.lasersell.io) • [Telegram](https://t.me/lasersell) • [Discord](https://discord.lasersell.io) • [Get Access](https://www.lasersell.io/buy)
 
@@ -13,7 +13,7 @@
 
 ## 📖 About LaserSell
 
-**LaserSell** is a premium, non-custodial trading terminal built for the Solana blockchain.
+**LaserSell** is a high-frequency **sell-side engine** built for the Solana blockchain.
 
 Designed for traders who require millisecond precision, LaserSell runs directly on your own infrastructure (Linux VPS) to minimize latency, while providing a seamless **Chrome Extension** dashboard for real-time monitoring, graphs, and trade management.
 

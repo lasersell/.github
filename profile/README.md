@@ -5,7 +5,7 @@
 ### The Automated Exit Engine for Solana.
 **Detect. Execute. Secure.**
 
-[Website](https://www.lasersell.io) • [Documentation](https://docs.lasersell.io) • [Telegram](https://t.me/lasersell) • [Discord](https://discord.lasersell.io) • [Get Access](https://www.lasersell.io/buy)
+[Website](https://www.lasersell.io) • [Documentation](https://docs.lasersell.io) • [Telegram](https://t.me/lasersell) • [Discord](https://discord.gg/lasersell) • [Get Access](https://www.lasersell.io/buy)
 
 ---
 
@@ -31,7 +31,7 @@ Designed for traders who require millisecond precision, LaserSell runs directly 
 | **📚 [Documentation](https://docs.lasersell.io)** | Installation guides, VPS setup, and configuration. |
 | **🎟️ [Get Access](https://www.lasersell.io/buy)** | Get a 7-day or 30-day license key. |
 | **💬 [Telegram Channel](https://t.me/lasersell)** | Join the announcements channel. |
-| **💬 [Discord Server](https://discord.lasersell.io)** | Join the community for discussions and support. |
+| **💬 [Discord Server](https://discord.gg/lasersell)** | Join the community for discussions and support. |
 
 ---
 

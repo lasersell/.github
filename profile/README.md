@@ -3,7 +3,7 @@
 # ⚡ LaserSell
 
 ### The Automated Exit Engine for Solana.
-**Detect. Execute. Secure.**
+**Detect. Execute. Secure. Take Profit.**
 
 [Website](https://www.lasersell.io) • [Documentation](https://docs.lasersell.io) • [Telegram](https://t.me/lasersell) • [Discord](https://discord.gg/lasersell) • [X (Twitter)](https://x.com/lasersellhq)
 

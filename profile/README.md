@@ -10,7 +10,7 @@
 
 [Website](https://www.lasersell.io) · [Documentation](https://docs.lasersell.io) · [Telegram](https://t.me/lasersell) · [Discord](https://discord.gg/lasersell) · [X](https://x.com/lasersellhq)
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/lasersell/lasersell/blob/main/LICENSE) [![Discord](https://img.shields.io/discord/lasersell?label=discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/lasersell) [![Rust](https://img.shields.io/badge/rust-stable-orange?logo=rust)](https://github.com/lasersell/lasersell) [![Solana](https://img.shields.io/badge/solana-mainnet-9945FF?logo=solana&logoColor=white)](https://www.lasersell.io)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/lasersell/lasersell/blob/main/LICENSE) [![Discord](https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/lasersell) [![Rust](https://img.shields.io/badge/rust-stable-orange?logo=rust)](https://github.com/lasersell/lasersell) [![Solana](https://img.shields.io/badge/solana-mainnet-9945FF?logo=solana&logoColor=white)](https://www.lasersell.io)
 
 </div>
 

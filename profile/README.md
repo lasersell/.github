@@ -16,7 +16,7 @@
 
 ---
 
-LaserSell monitors every position and fires automated sells the instant your conditions are met. Open-source client, full API, SDKs in four languages, and the API AI agents use to trade.
+LaserSell monitors every position and fires automated sells the instant your conditions are met. Open-source client, full API, SDKs in four languages, and native support for AI trading agents.
 
 **Built for:** Pump.fun · Raydium · Meteora · PumpSwap · USD1
 
@@ -30,7 +30,7 @@ Available on **macOS**, **Linux**, **Windows**, and **Docker**.
 curl -fsSL https://dl.lasersell.io/install.sh | bash
 ```
 
-## One API for every Solana DEX. Four SDKs to match.
+## LaserSell makes it easy to build.
 
 REST endpoints for building transactions. A WebSocket stream for real-time exits and PnL. SDKs in TypeScript, Python, Rust, and Go.
 

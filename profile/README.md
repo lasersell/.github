@@ -6,7 +6,7 @@
   <img alt="LaserSell" src="lasersell-light.png" width="400" />
 </picture>
 
-### Solana's Exit Intelligence Engine.
+### Exit Smarter.
 
 [Website](https://www.lasersell.io) · [Documentation](https://docs.lasersell.io) · [Telegram](https://t.me/lasersell) · [Discord](https://discord.gg/lasersell) · [X](https://x.com/lasersellhq)
 

@@ -57,7 +57,7 @@ Embed LaserSell into apps, bots, and trading platforms at any scale. Whitelabel-
 | **API Reference** | [docs.lasersell.io/api/overview](https://docs.lasersell.io/api/overview) |
 | **Build a Trading Agent** | [docs.lasersell.io/ai-agents/build-a-trading-agent](https://docs.lasersell.io/ai-agents/build-a-trading-agent) |
 | **Blog** | [lasersell.io/blog](https://www.lasersell.io/blog) |
-| **Benchmarks** | [2-5x faster than every major Solana trading API](https://www.lasersell.io/blog/benchmark-results) |
+| **Benchmarks** | [38x faster than every major Solana trading API](https://www.lasersell.io/blog/benchmark-results) |
 | **Dashboard** | [app.lasersell.io](https://app.lasersell.io) |
 
 ---

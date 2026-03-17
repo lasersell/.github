@@ -8,7 +8,9 @@
 
 ### Exit Smarter.
 
-[Website](https://www.lasersell.io) · [Documentation](https://docs.lasersell.io) · [Telegram](https://t.me/lasersell) · [Discord](https://discord.gg/lasersell) · [X](https://x.com/lasersellhq)
+The traders beating you aren't better. They just aren't selling manually anymore.
+
+[**Download the Desktop App**](https://www.lasersell.io/download) · [Website](https://www.lasersell.io) · [Docs](https://docs.lasersell.io) · [Discord](https://discord.gg/lasersell) · [X](https://x.com/lasersellhq)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/lasersell/lasersell/blob/main/LICENSE) [![Discord](https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/lasersell) [![Rust](https://img.shields.io/badge/rust-stable-orange?logo=rust)](https://github.com/lasersell/lasersell) [![Solana](https://img.shields.io/badge/solana-mainnet-9945FF?logo=solana&logoColor=white)](https://www.lasersell.io)
 
@@ -16,37 +18,48 @@
 
 ---
 
-LaserSell monitors every position and fires automated sells the instant your conditions are met. Open-source client, full API, SDKs in four languages, and native support for AI trading agents.
+LaserSell monitors your Solana positions in real time and fires automated sells the instant your conditions are met. 4ms median transaction builds. Sub-200ms exit delivery. No polling, no stale data, no missed exits.
 
-**Built for:** Pump.fun · Raydium · Meteora · PumpSwap · USD1
+**Supported DEXs:** Pump.fun · PumpSwap · Raydium · Meteora · Bags.fm · SOL and USD1
 
-## Open-source client. Non-custodial by design.
+## Non-custodial. Your keys never leave your machine.
 
-Set your take profit, stop loss, trailing stop, and deadline. LaserSell watches every position and exits the moment your conditions are met. Wallet keys never leave your machine — protected with Argon2id-derived keystores and XChaCha20-Poly1305 encryption.
+Private keys are stored in an encrypted keystore (Argon2id + XChaCha20-Poly1305), signed locally, and submitted directly to the network. The server only sees your public key. It builds unsigned transactions and sends them to you.
 
-Available on **macOS**, **Linux**, **Windows**, and **Docker**.
+## Desktop app
+
+Five minutes from download to your first automated exit. Portfolio management, copy trading, exit strategies, and real time position monitoring in a native macOS app.
+
+**[Download for Mac &rarr;](https://www.lasersell.io/download)**
+
+## CLI
+
+Open source. Headless. Built for VPS and server deployments.
 
 ```
-curl -fsSL https://dl.lasersell.io/install.sh | bash
+curl -fsSL https://dl.lasersell.io/install.sh | sh
 ```
 
-## LaserSell makes it easy to build.
+## API and SDKs
 
-REST endpoints for building transactions. A WebSocket stream for real-time exits and PnL. SDKs in TypeScript, Python, Rust, and Go.
+REST endpoints for building transactions. A WebSocket stream for real time exits and PnL. SDKs in four languages.
 
-## LaserSell is how AI agents trade on Solana.
+```bash
+npm install @lasersell/lasersell-sdk    # TypeScript
+pip install lasersell-sdk               # Python
+cargo add lasersell-sdk                 # Rust
+go get github.com/lasersell/lasersell-sdk/go
+```
 
-Any agent can buy and sell across every major Solana DEX, receive automated exit signals, and track positions in real time. No protocol code required. Works with OpenClaw, LangChain, CrewAI, and any agent framework.
+## AI agents trade on Solana through LaserSell.
 
-## Platform integration.
-
-Embed LaserSell into apps, bots, and trading platforms at any scale. Whitelabel-friendly APIs, built-in partner fees, and scalable execution capacity built for sustained institutional load.
+Any agent can buy and sell across every major Solana DEX, receive automated exit signals, and track positions in real time. No protocol code required.
 
 ## Repositories
 
 | Repository | Description |
 | :--- | :--- |
-| [`lasersell`](https://github.com/lasersell/lasersell) | Open-source Rust client with TUI |
+| [`lasersell`](https://github.com/lasersell/lasersell) | Open source Rust client and CLI |
 | [`lasersell-sdk`](https://github.com/lasersell/lasersell-sdk) | SDKs for TypeScript, Python, Rust, and Go |
 
 ## Links
@@ -56,8 +69,8 @@ Embed LaserSell into apps, bots, and trading platforms at any scale. Whitelabel-
 | **Quickstart** | [docs.lasersell.io/start-here/quickstart](https://docs.lasersell.io/start-here/quickstart) |
 | **API Reference** | [docs.lasersell.io/api/overview](https://docs.lasersell.io/api/overview) |
 | **Build a Trading Agent** | [docs.lasersell.io/ai-agents/build-a-trading-agent](https://docs.lasersell.io/ai-agents/build-a-trading-agent) |
-| **Blog** | [lasersell.io/blog](https://www.lasersell.io/blog) |
 | **Benchmarks** | [38x faster than every major Solana trading API](https://www.lasersell.io/blog/benchmark-results) |
+| **Blog** | [lasersell.io/blog](https://www.lasersell.io/blog) |
 | **Dashboard** | [app.lasersell.io](https://app.lasersell.io) |
 
 ---
@@ -66,7 +79,7 @@ Embed LaserSell into apps, bots, and trading platforms at any scale. Whitelabel-
 
 > **We will never ask for your private keys.**
 
-LaserSell is fully non-custodial. Anyone DMing you claiming to be "LaserSell Support" or asking for seed phrases / private keys is a scammer. LaserSell is operated solely by [@haccer](https://github.com/haccer).
+Anyone DMing you claiming to be "LaserSell Support" or asking for seed phrases is a scammer. LaserSell is operated solely by [@haccer](https://github.com/haccer).
 
 **Official channels only:**
 - **Email:** [support@lasersell.io](mailto:support@lasersell.io)

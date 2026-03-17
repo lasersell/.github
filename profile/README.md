@@ -18,7 +18,7 @@ The traders beating you aren't better. They just aren't selling manually anymore
 
 ---
 
-LaserSell monitors your Solana positions in real time and fires automated sells the instant your conditions are met. 4ms median transaction builds. Sub-200ms exit delivery. No polling, no stale data, no missed exits.
+LaserSell monitors your Solana positions in real time and fires automated sells the instant your conditions are met. No polling, no stale data, no missed exits.
 
 **Supported DEXs:** Pump.fun · PumpSwap · Raydium · Meteora · Bags.fm · SOL and USD1
 

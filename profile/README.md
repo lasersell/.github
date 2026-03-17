@@ -24,7 +24,7 @@ LaserSell monitors your Solana positions in real time and fires automated sells 
 
 ## Non-custodial. Your keys never leave your machine.
 
-Private keys are stored in an encrypted keystore (Argon2id + XChaCha20-Poly1305), signed locally, and submitted directly to the network. The server only sees your public key. It builds unsigned transactions and sends them to you.
+Private keys are stored in an encrypted keystore (Argon2id + XChaCha20-Poly1305) and never leave your machine. Transactions are signed locally and submitted directly to the network. The server only sees your public key, builds unsigned transactions, and sends them to your client to sign.
 
 ## Desktop app
 
